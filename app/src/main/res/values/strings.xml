@@ -6,4 +6,9 @@
     <string name="calcular">Calcular</string>
     <string name="valores_validos">Valores Válido !!!</string>
     <string name="valores_invalidos">Valores Inválido !!!</string>
+    <string name="total_de_km">Total de KM</string>
+    <string name="preco_por_litro">Preço por Litro</string>
+    <string name="km_por_litros">KM por Litros</string>
+    <string name="gasto_total">Seu gasto total será de :</string>
+    <string name="valor_0">R$ 0,00</string>
 </resources>
